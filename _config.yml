@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "fa-IR"
+locale                   : "eh-US"
 title                    : "Habib Ghaffari / GitHub Website"
 title_separator          : "-"
 name                     : &name "Habib Ghaffari Hadigheh"
