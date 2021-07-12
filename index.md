@@ -5,7 +5,7 @@
 ## Personal Information
 Surname(s) / First name(s): **Write down your full name here**
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [youremail(at)domain(dot)com](mailto:ghaffh1@mcmaaster.ca)
 
 Date of birth: Write your date of birth here
 
@@ -13,7 +13,9 @@ Date of birth: Write your date of birth here
 
 Write a few sentences describing you the best.
 
+# This is new sectoin
 
+This is a simple text I am adding to the page
 
 ```markdown
 ### List of hobbies:
@@ -66,4 +68,5 @@ Write a few sentences describing you the best.
 2. (2007-2010) Project Leader
 3. (2010-2015) IT Manager
 4. (2-15- Now) Product Mangager
+5. (2019-2021) Internship with Voices.com
 ```
