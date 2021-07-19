@@ -27,7 +27,17 @@ This is a simple text I am adding to the page
     * ghc
 * Biking
 * Hiking
+
+1. Coding
+  1. Elm
+  1. Haskell
+    1. Stack
+    1. ghc
+1. Biking
+1. Hiking
 ```
+
+
 
 ### Find me here
 
