@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Habib's GitHub web page
 description: [Welcome to my Github page. Enjoy surffing arround.]
 logo: /images/profile_image.png
-show_downloads: false
+show_downloads: true
 google_analytics: [UA-175791564-1]
