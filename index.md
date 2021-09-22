@@ -35,3 +35,6 @@ I am a Ph.D. student in McMaster University.
 1. Hashed Expression
 2. Language Identification
 
+## Some Images that I like
+[Have a look at my photo gallery](/gallery.md)
+
