@@ -5,7 +5,7 @@
 ## Personal Information
 Surname(s) / First name(s): **Write down your full name here**
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [ghaffh1(at)mcmaster(dot)ca](mailto:ghaffh1@mcmaster.ca)
 
 Date of birth: Write your date of birth here
 
