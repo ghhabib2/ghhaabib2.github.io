@@ -3,15 +3,15 @@ course_name: ML-Base Research Tools for Research Process
 course_description: "As a researcher etc."
 course_semester: "Fall 2023"
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://ghhabib2.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ghhabib2.github.io/" # the base hostname & protocol for your site
 
 schoolname: "McMaster University"
 schoolurl: "https://mcmaster.ca"
-twitter_username: username 
+twitter_username: ghhabib_pro
 
 address: |
-    McMaster Address
+  1280 Main Street West  Hamilton, Ontario  L8S 4L8 | (905) 525-9140
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
