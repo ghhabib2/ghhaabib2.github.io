@@ -17,45 +17,31 @@ links:
 
 # Introduction
 
-Searching for the scietific articiles when we are starting a research
-is one of the hardest things to do. Specifically if you are in your first
-yeard of the research it will be harder. 
+A literature review is a summary of the published work in a field of study. This can be a section of a larger paper or article, or can be the focus of an entire paper. Literature reviews show that you have examined the breadth of knowledge and can justify your thesis or research questions. In todays lecture we introduce ML 
 
-In this lecture we will have a look at how we can do a search using a none-intlligent
-search engine for academic resources, then we will have a look at one tool that will
-help you to do a more in depth and more intelligent search.
+# Tips for writing a liturature review
 
-# How to search for academic resources
+1. **Narrow your topic and select papers accordingly:** Consider your specific area of study. Think about what interests you and what interests other researchers in your field.
+2. **Search for literature:** Define your source selection criteria (ie. articles published between a specific date range, focusing on a specific geographic region, or using a specific methodology). Look at lecture I for how to do the search.
+3. **Read the selected articles thoroughly and evaluate them:** Evaluate and synthesize the studies' ﬁndings and conclusions. We itroduced some references in the first lecture about how to read academic papers.
+4. **Organize the selected papers by looking for patterns and by developing subtopics**
+5. **Develop a thesis or purpose statement**
+6. **Write the paper**
+7. **Review your work**
 
-Lets assume you are going to start a research, your supervisor asked you **to
-find five recent publication about the topic and read them.** This is the new challenge
-for you since you don't know how to do this. Should you start **googling** for the topic?
-What you should search for? What you should not search for? This is not in the scope of the
-lecture but we will suggest you to look at this video to become familar with searching skills
-for academic resources:
+# How to Do Liturature Review
 
-## Search VS Research
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OvcawD4abps?si=WQnsJox53YUiVxMH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/minZ0ABVqyk?si=c2_3SjlCxXH0T5aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# Connected Papers
 
-## Searching in Google Scholar
+Connected Papers is a tool for thought to help researchers and applied scientists find and explore papers relevant to their field of work in a visual way. You enter an origin paper, and they generate a graph. To achieve this, they analyse about 50,000 research papers, and select the ones with the strongest connections to the origin paper.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsTPZItV3No?si=6WS8TBW2FUlIJYbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Created by Alex Tarnavsky, Eitan Eddie Smolyansky, and Itay Knaan Harpaz from Israel, Connected Papers started as a weekend side project. But when the three friends realised how useful it was in their own research, and how their friends and colleagues kept on asking to use it, they decided to release the tool for the public.
 
-## Read Scholarly Articles
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oq6RiJLlzlk?si=TfG2808MN6RjFg8C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-# Semantic Scholar
-
-In this lecture we will introduce **Semantic Scholar**. An academic resource searching tool
-that go beyond simple search. Based on the limited time we have in the class it will be great if
-have a look at the following introductory video. We will discuss about this more in the class.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U25ZhuokyG4?si=e8Fv5c9KfLljtQQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63G3_SYRmDE?si=dUddrMd6EKB6510t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Suggested Readings:**
-- [How to read a research Paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
-- [Semantic Scholar Tutorials](https://www.semanticscholar.org/product/tutorials)
-- [Semantic Scholar](https://www.researchgate.net/publication/322459826_Semantic_Scholar)
+- [The Literature Review: A Few Tips On Conducting It](https://advice.writing.utoronto.ca/types-of-writing/literature-review/)
+- [Connected Papers](https://www.connectedpapers.com/about)
+- [Research Rabbit](https://www.researchrabbit.ai/)
