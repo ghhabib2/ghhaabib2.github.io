@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-01-21T9:00:00+4:30
+date: 2023-09-21T9:00:00+4:30
 title: ML-Based Research Tools for Literature Review 
 tldr: "In this section you will learn about how to work on your liturature review using ML-based research tools."
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/schol.png
 links: 
-    - url: https://google.com
+    - url: /slides/Presentation_Part_Two.pptx
       name: slides
 ---
 
@@ -13,13 +13,16 @@ links:
 
 # Zoom Meeting Link
 
-- [Lecture II (2023-01-21 09:00 AM)](https://mcmaster.zoom.us/j/5561269267)
+- [Lecture II (2023-09-21 09:00 AM)](https://mcmaster.zoom.us/j/5561269267)
 
 # Introduction
 
-A literature review is a summary of the published work in a field of study. This can be a section of a larger paper or article, or can be the focus of an entire paper. Literature reviews show that you have examined the breadth of knowledge and can justify your thesis or research questions. In todays lecture we introduce ML 
+Starting a research project can be a bit overwhelming, especially when it comes to understanding the existing work in the area
+of research you're planning to work on. You need to figure out what the open problems are and navigate through a bunch of papers to get
+a sense of the research history. But, don't worry, we're here to help you out! We'll provide you with some information on software tools
+that can simplify this part of your research journey. 
 
-# Tips for writing a liturature review
+# Tips for Writing a Literature Review
 
 1. **Narrow your topic and select papers accordingly:** Consider your specific area of study. Think about what interests you and what interests other researchers in your field.
 2. **Search for literature:** Define your source selection criteria (ie. articles published between a specific date range, focusing on a specific geographic region, or using a specific methodology). Look at lecture I for how to do the search.

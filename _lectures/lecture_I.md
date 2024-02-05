@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-01-11T9:00:00+4:30
+date: 2023-09-11T9:00:00+4:30
 title: Scientific resources searching tools
 tldr: "In this lecture we will discuss about how to search for scientific resources."
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/cp.jpg
 links: 
-    - url: https://google.com
+    - url: /slides/Presentation_Part_One.pptx
       name: slides
 ---
 
@@ -13,26 +13,15 @@ links:
 
 # Zoom Meeting Link
 
-- [Lecture I (2023-01-11 09:00 AM)](https://mcmaster.zoom.us/j/5561269267)
+- [Lecture I (2023-09-11 09:00 AM)](https://mcmaster.zoom.us/j/5561269267)
 
 # Introduction
 
-Searching for the scietific articiles when we are starting a research
-is one of the hardest things to do. Specifically if you are in your first
-yeard of the research it will be harder. 
-
-In this lecture we will have a look at how we can do a search using a none-intlligent
-search engine for academic resources, then we will have a look at one tool that will
-help you to do a more in depth and more intelligent search.
+Searching for scientific articles when starting a research is one of the most challenging tasks, especially if you are in your first year of research. In this lecture, we will learn how to perform a search using a non-intelligent search engine for academic resources, and then we will explore a more advanced tool to conduct a more profound and intelligent search.
 
 # How to search for academic resources
 
-Lets assume you are going to start a research, your supervisor asked you **to
-find five recent publication about the topic and read them.** This is the new challenge
-for you since you don't know how to do this. Should you start **googling** for the topic?
-What you should search for? What you should not search for? This is not in the scope of the
-lecture but we will suggest you to look at this video to become familar with searching skills
-for academic resources:
+Assume that you are about to begin a research project and your supervisor has instructed you to find and read at least five recent publications on the given topic. However, you may be unsure of how to proceed. Should you simply search for the topic on Google? What should you be searching for exactly? What should you avoid searching for? Although this topic may not have been covered in your lecture, we suggest that you watch this video to become familiar with the necessary skills for searching academic resources.
 
 ## Search VS Research
 
@@ -41,10 +30,6 @@ for academic resources:
 ## Searching in Google Scholar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WsTPZItV3No?si=6WS8TBW2FUlIJYbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Read Scholarly Articles
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oq6RiJLlzlk?si=TfG2808MN6RjFg8C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Semantic Scholar

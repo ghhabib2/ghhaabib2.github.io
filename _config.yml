@@ -1,6 +1,10 @@
 # Site settings
 course_name: ML-Base Research Tools for Research Process
-course_description: "As a researcher etc."
+course_description: "Conducting research as a graduate student can be a time-consuming and demanding process. It requires a great deal of patience, persistence, and dedication to complete. Graduate students often face a variety of research challenges, including choosing the right topic, finding study participants, staying motivated throughout the process, and communicating complex ideas with peers and the larger scholarly community.
+
+However, when graduate students are also juggling other responsibilities such as TAing or lecturing, the research process can become even more challenging. These additional duties can take up a significant amount of time and energy, leaving less time for research. As a result, graduate students may find it difficult to balance their research with their other responsibilities.
+
+Machine learning-based research tools can be incredibly helpful for graduate students who are juggling multiple responsibilities. This is what we will discuss in this course"
 course_semester: "Fall 2023"
 
 baseurl: "" # the subpath of your site, e.g. /blog/

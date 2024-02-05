@@ -1,9 +1,9 @@
 instructors:
   - name: Habib Ghaffari Hadigheh
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /static_files/habib.jpg
     webpage: https://ghhabib.me
 
 teaching_assistants:
   - name: Alireza Ghaffari
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    profile_pic: /static_files/ali.jpg
+    webpage: https://hadigheha.github.io/

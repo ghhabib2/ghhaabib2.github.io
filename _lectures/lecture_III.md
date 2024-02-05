@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-01-21T9:00:00+4:30
+date: 2023-10-10T9:00:00+4:30
 title: ML-Based Research Tools for effectively reading papers
 tldr: "In this lecture we will work on ML-based tools help us to read papers effectively."
-thumbnail: /static_files/presentations/lec.jpg
-links: 
-    - url: https://google.com
+thumbnail: /static_files/presentations/ss.png
+links:
+    - url: /slides/Presentation_Part_Three.pptx
       name: slides
 ---
 
@@ -13,49 +13,45 @@ links:
 
 # Zoom Meeting Link
 
-- [Lecture I (2023-01-19 09:00 AM)](https://mcmaster.zoom.us/j/5561269267)
+- [Lecture III (2023-10-10 09:00 AM)](https://mcmaster.zoom.us/j/5561269267)
 
 # Introduction
 
-Searching for the scietific articiles when we are starting a research
-is one of the hardest things to do. Specifically if you are in your first
-yeard of the research it will be harder. 
+Most of the cases reading an academic 
+paper is a time consuming process. Considering the limited time a student has, it will be really challenging to read a
+huge amount of material in daily bases. In this lecutre we will introduce you the tools to read and summarize the papers.
+Before comming to the lecture please review the meterials introduced here.
 
-In this lecture we will have a look at how we can do a search using a none-intlligent
-search engine for academic resources, then we will have a look at one tool that will
-help you to do a more in depth and more intelligent search.
+# Tips to Read Academic Papers
 
-# How to search for academic resources
-
-Lets assume you are going to start a research, your supervisor asked you **to
-find five recent publication about the topic and read them.** This is the new challenge
-for you since you don't know how to do this. Should you start **googling** for the topic?
-What you should search for? What you should not search for? This is not in the scope of the
-lecture but we will suggest you to look at this video to become familar with searching skills
-for academic resources:
-
-## Search VS Research
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/minZ0ABVqyk?si=c2_3SjlCxXH0T5aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Searching in Google Scholar
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsTPZItV3No?si=6WS8TBW2FUlIJYbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+1. Don’t read from Introduction to Conclusion.
+2. Look at the information about the article (title, author, abstract, citation)
+3. Skim the Introduction
+4. Glance at section headings
+5. Review Discussion/Conclusions sections
+6. Read through the other sections
 
 ## Read Scholarly Articles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq6RiJLlzlk?si=TfG2808MN6RjFg8C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# Scholarcy
 
-# Semantic Scholar
+Scholarcy is an **AI-powered summarizing tool** that can help you quickly summarize research articles, reports, and book chapters in seconds.
+It uses advanced machine learning algorithms to identify key information such as study participants, data analyses, main findings, and limitations, 
+and breaks them down into bite-sized sections. This way, you can quickly assess how important any document is to your work and save hundreds of hours. 
+Scholarcy can also create a summary flashcard of any article, report, or document in Word or PDF format, and extract the key facts, figures, and 
+references in seconds. Scholarcy's browser extension for Chrome and Edge works with open-access repositories such as 
+arXiv, biorXiv, and OSF Preprints. It also integrates with Scholarcy Library, a pay-monthly subscription service that builds a 
+searchable collection of your summary cards, accessible from any device.
 
-In this lecture we will introduce **Semantic Scholar**. An academic resource searching tool
-that go beyond simple search. Based on the limited time we have in the class it will be great if
-have a look at the following introductory video. We will discuss about this more in the class.
+If you're interested in learning more about Scholarcy, have a look at the following video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U25ZhuokyG4?si=e8Fv5c9KfLljtQQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mqqbs8tuABk?si=qwakMo53gVeBVpws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 **Suggested Readings:**
 - [How to read a research Paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
-- [Semantic Scholar Tutorials](https://www.semanticscholar.org/product/tutorials)
-- [Semantic Scholar](https://www.researchgate.net/publication/322459826_Semantic_Scholar)
+- [Scholarcy](https://www.scholarcy.com/about-us/)
+
